@@ -9,7 +9,7 @@ NetBolt Gateway automatically detours supported addons to use HTTPS and Cloudfla
 - ✔️ **Enhanced reliability**  
 - ✔️ **Scalable performance for servers of any size**  
 
-No configuration required—just subscribe and let it work its magic!
+No configuration required.
 
 ---
 
